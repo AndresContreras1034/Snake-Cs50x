@@ -2,7 +2,10 @@
 # SNAKE CS50X
 
 **Video Demo:** <URL HERE>  
-**Description:**  
+**Description:**  A modular project organized under `src/` with `controller/`, `interface/`, and `model/` folders.  
+Promotes maintainability, scalability, and clear separation of concerns.  
+Patterns like Singleton, Observer, and DTO are applied for structured design.
+
 
 TODO
 
