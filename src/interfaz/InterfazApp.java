@@ -1,3 +1,15 @@
+/*
+ * Project: SNAKE CS59X
+ * 
+ * AI Assistance Note:
+ * The modular project structure (folders src/, controller/, interface/, model/)
+ * and help with writing this README were suggested with assistance from ChatGPT.
+ * It was used only as a supporting tool; the design and implementation
+ * of the project are entirely my own work.
+ */
+
+
+
 package interfaz;
 
 import controlador.Controlador;
@@ -110,3 +122,4 @@ public class InterfazApp extends JFrame {
         SwingUtilities.invokeLater(InterfazApp::new);
     }
 }
+
